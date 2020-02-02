@@ -1,0 +1,6 @@
+C:\Users\Davit\source\repos\NewRepo1\sfsdf\sfsdf\bin\Debug\sfsdf.exe.config
+C:\Users\Davit\source\repos\NewRepo1\sfsdf\sfsdf\bin\Debug\sfsdf.exe
+C:\Users\Davit\source\repos\NewRepo1\sfsdf\sfsdf\bin\Debug\sfsdf.pdb
+C:\Users\Davit\source\repos\NewRepo1\sfsdf\sfsdf\obj\Debug\sfsdf.csprojAssemblyReference.cache
+C:\Users\Davit\source\repos\NewRepo1\sfsdf\sfsdf\obj\Debug\sfsdf.exe
+C:\Users\Davit\source\repos\NewRepo1\sfsdf\sfsdf\obj\Debug\sfsdf.pdb
