@@ -11,6 +11,8 @@ namespace sfsdf
         static void Main(string[] args)
         {
             Console.Write("FGHFGh");
+            Console.Write("FGHFGh");
+
         }
     }
 }
