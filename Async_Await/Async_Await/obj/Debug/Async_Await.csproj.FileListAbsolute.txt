@@ -1,0 +1,6 @@
+C:\Users\Davit\source\repos\NewRepo1\Async_Await\Async_Await\bin\Debug\Async_Await.exe.config
+C:\Users\Davit\source\repos\NewRepo1\Async_Await\Async_Await\bin\Debug\Async_Await.exe
+C:\Users\Davit\source\repos\NewRepo1\Async_Await\Async_Await\bin\Debug\Async_Await.pdb
+C:\Users\Davit\source\repos\NewRepo1\Async_Await\Async_Await\obj\Debug\Async_Await.csprojAssemblyReference.cache
+C:\Users\Davit\source\repos\NewRepo1\Async_Await\Async_Await\obj\Debug\Async_Await.exe
+C:\Users\Davit\source\repos\NewRepo1\Async_Await\Async_Await\obj\Debug\Async_Await.pdb
